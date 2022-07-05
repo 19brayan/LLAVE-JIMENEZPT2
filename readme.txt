@@ -1,27 +1,22 @@
-//COMO EMPEZAR A COMPILAR SASS//
+LLAVE BIENES RAICES
+Inmobiliaria con más de 40 años dE experiencia en una de las ciudades más importantes del mundo, la famosa CDMX.
 
-1. Abrir la consola en esta carpeta con ctrl+ñ
-    a. npm install nodemon node-sass
-    b. npm init
+Dentro de cada una de mis páginas realice un keyword search dentro de google Ads, como las palabras que dentro del 
+indexado de búsqueda. Siedno estas las 10 más importantes
 
-2. Abrir el archivo package.json y editarlo
-    a. A continuación de && exit 1" colocar una , presionar enter
-    y pegar el siguiente texto:
+departamentos en venta
+venta departamentos cdmx
+venta de departamentos cdmx
+preventa departamentos cdmx
+departamentos en venta queretaro
+venta de departamentos
+preventa departamentos
+departamentos en venta Benito Juárez
+departamentos en venta ciudad de méxico
 
-"build-css": "node-sass --include-path scss scss/main.scss css/style.css",
-"watch-css": "nodemon -e scss -x \"npm run build-css\""
+Ocupando la jerarquización de los H1 - H6 dentro de cada una de las páginas.
 
-3. Crear las carpetas con sus respectivos archivos
-    a. scss/main.scss
-    b. css/style.css
+Con su meta keywords destacan las palabras
+"venta, departamentos, casas, CDMX, vivienda, inversión"
 
-4. En la consola correr el comando
-    a. npm run build-css //Por unica vez
-    b. npm run watch-css
-
-
-5. Cada vez que se quiera seguir compilando en SASS
-    a. abrir la consola con ctrl+ñ
-    b. npm run watch-css
-
-//FIN
+Logando con el nav impulsar la mism semántica de las palabras para el SEO del sitio web.
